@@ -1,13 +1,13 @@
 ###  Это бот который определяет планеты  ###
  - Что бы бот заработал нужно следовать шагам:
   - Шаг 1. Установка библеотек:
-       - В терминале пишем {
+       - В терминале пишем:
            - pip install tensorflow==2.15.0
            - pip install keras==2.15.0
            - pip install pillow
            - pip install telebot
            - pip install numpy
-       - }
+           
   - Шаг 2. Создание бота:
        - Переходим в бота @BotFather
        - Вводим команду: /newbot
